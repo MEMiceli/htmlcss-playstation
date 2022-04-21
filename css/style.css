@@ -65,3 +65,7 @@ main{
     font-size: smaller;
 }
 
+.new_releases{
+    background-color: rgb(20, 25, 34);
+    color: white;
+}
