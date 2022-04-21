@@ -74,6 +74,7 @@ main{
 .btn_psplus{
     background-color: #D9DADC;
     color: blue;
+    border: transparent;
 }
 
 .ps_plus{
@@ -81,5 +82,8 @@ main{
     min-height: 200px;
 }
 .psplus_img > img{
+    width: 100%;
+}
+.discount > img{
     width: 100%;
 }
