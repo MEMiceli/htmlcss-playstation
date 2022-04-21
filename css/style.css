@@ -87,3 +87,8 @@ main{
 .discount > img{
     width: 100%;
 }
+/* playstation-now */
+.ps_now{
+    background-color: #161C3B;
+    color: white;
+}
