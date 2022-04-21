@@ -69,3 +69,17 @@ main{
     background-color: rgb(20, 25, 34);
     color: white;
 }
+
+/* playstation-plus */
+.btn_psplus{
+    background-color: #D9DADC;
+    color: blue;
+}
+
+.ps_plus{
+    background-color: #BEBCBB;
+    min-height: 200px;
+}
+.psplus_img > img{
+    width: 100%;
+}
