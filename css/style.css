@@ -52,9 +52,9 @@ main{
     width: 50%;
 }
 /* carosel hero */
-.carosel{
+/* .carosel{
     margin-top: 16;
-}
+} */
 .card_image > img{
     width: 100%;
     border-radius: 20px;
