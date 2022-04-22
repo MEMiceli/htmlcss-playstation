@@ -47,9 +47,11 @@ main{
 .hero_text{
     z-index: 9;
     color: white;
+    position: absolute;
+    bottom: 20px;
 }
 .banner{
-    width: 50%;
+    max-width: 300px;
 }
 /* carosel hero */
 /* .carosel{
