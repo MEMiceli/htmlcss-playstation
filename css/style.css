@@ -92,6 +92,11 @@ main{
     background-color: #161C3B;
     color: white;
 }
+.btn_psnow{
+    background-color: whitesmoke;
+    color: black;
+    border: transparent;
+}
 /* media */
 .media_img > img{
     width: 100%;
